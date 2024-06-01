@@ -8,7 +8,7 @@ The repository contains the following files:
 
 - **Images**:
 
-  - `baboon-color.jpg`: Sample color image of a baboon used in the experiments.m
+  - `baboon-color.jpg`: Sample color image of a baboon used in the experiments.
   - `baboon.jpg`: Sample grayscale image of a baboon used in the experiments.
   - `leena-color.png`: Sample color image of Lena used in the experiments.
   - `Lena-gray.png`: Sample grayscale image of Lena used in the experiments.
